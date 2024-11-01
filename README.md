@@ -1,7 +1,3 @@
-Here's a `README.md` file tailored for a repository focused on juice jacking with `Brute.sh` and `data-extractor.sh` scripts:
-
----
-
 # JuiceJacking Toolkit
 
 **JuiceJacking Toolkit** provides a collection of tools to simulate juice jacking attacks and study device vulnerabilities when connected to potentially unsafe USB charging stations. These scripts are designed for educational and research purposes to understand and mitigate the risks of juice jacking.
