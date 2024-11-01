@@ -22,8 +22,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/aryansharma0628/Juice-jacking
-.git
+   git clone https://github.com/aryansharma0628/Juice-jacking.git
    cd JuiceJacking-Toolkit
    ```
 
